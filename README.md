@@ -76,7 +76,7 @@ Some of my best projects include the following:
     Unfortunately, due to the sensitive nature of these files, I cannot have them publicly available. However, I'd be happy to share on a more closed forum. The processes do not contain company sensitive information, but I'd rather not show an entire departments code repository.
 
 
-### Contact Me :email:
+### *Contact Me* :email:
 If you'd like to reach out, please feel free to send a ping or email at noe.navarro1019@gmail.com. I'm always looking to collaborate on cool projects and open to provide advice for newer developers who may also be following the self-taught route :smiley:
 
 Happy coding! :tada:
