@@ -1,5 +1,6 @@
 ### *About Me* 👋
-Hi, I’m Noe Navarro (@Nnavarr)! I'm a Phoneix based Financial & Data Analyst with 5+ years of experience. I graduated from ASU with a BS in Finance '14. Afterwards I worked at a mortgage lender before landing a position at U-Haul as a Financial Analyst. While there, I picked up a passion for all things code/programming. So much so, I abaondoned my pursuit of the CFA charter and have devoted all my self improvement time to becoming a software developer. 
+Hi, I’m Noe Navarro (@Nnavarr)! I'm a Phoneix based Financial & Data Analyst with 5+ years of experience. I graduated from ASU with a BS in Finance '14. Afterwards I worked at a mortgage lender before landing a position at U-Haul as a Financial Analyst. While there, I picked up a passion for all things code/programming. So much so, I abaondoned my pursuit of the CFA charter and have devoted all my self improvement time to learning software development from a computer science perspective. 
+
 At the start of 2021, I transitioned to a much smaller agriculture company here in the valley. My title was updated to reflect my data analysis skillset; Python, R, SQL, and Power BI.
 
 
